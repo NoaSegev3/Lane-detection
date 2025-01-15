@@ -1,8 +1,5 @@
 # About
-A Python-based system for real-time lane and vehicle detection, supporting multiple scenarios such as daytime, nighttime, and curved roads. Includes features for lane change detection and vehicle proximity alerts.
-
-# Lane and Vehicle Detection System
-This project was developed as part of the **Introduction to Image Processing and Analysis** course. It implements a robust lane and vehicle detection system for various driving conditions, including daytime, nighttime, curved roads, and vehicle proximity detection.
+This project was developed as part of the Introduction to Image Processing and Analysis course. It implements a Python-based system for real-time lane and vehicle detection, supporting multiple scenarios such as daytime, nighttime, and curved roads. The system includes features for lane change detection and vehicle proximity alerts, providing robust functionality for various driving conditions.
 
 ## Features
 - **Daytime Lane Detection**: Uses Canny edge detection and Hough transform to identify and highlight lane markings.
